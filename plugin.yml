@@ -1,14 +1,15 @@
-name: LEVWORTSMP
-main: NurAzliYT\LEVWORTSMP\LEVWORTSMP
+name: Rules-Rules
+main: NurAzliYT\LEVWORTSMP\Rules
 api: 5.0.0
 version: 1.0.0
 author: NurAzliYT
-description: "Server Menu LevwortSMP"
+description: "Server Menu Rules no UI"
 
 commands:
 lsmp:
 permission: levwortsmp.command
+description: "Rules"
 
 permissions:
 levwortsmp.command:
-default: op
+default: true
