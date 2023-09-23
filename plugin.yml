@@ -6,7 +6,7 @@ author: NurAzliYT
 description: "Server Menu Rules no UI"
 
 commands:
-lsmp:
+rules:
 permission: levwortsmp.command
 description: "Rules"
 
