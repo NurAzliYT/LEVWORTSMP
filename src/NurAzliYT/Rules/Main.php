@@ -1,13 +1,13 @@
 <?php
 
-namespace NurAzliYT\LEVWORTSMP;
+namespace NurAzliYT\Rules;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\player\Player;
 
-class LEVWORTSMP extends PluginBase {
+class Rules extends PluginBase {
 
    public function onEnable():void{
    }
